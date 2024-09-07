@@ -1,0 +1,90 @@
+2024-09-05 15:24:15.3430 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-05 15:24:15.4432 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-05 15:24:15.4662 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-05 15:24:15.5013 Info Configuration initialized.
+2024-09-05 15:25:59.7002 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-05 15:25:59.8765 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-05 15:25:59.8998 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-05 15:25:59.9256 Info Configuration initialized.
+2024-09-05 16:26:42.5080 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-05 16:26:42.5828 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-05 16:26:42.6025 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-05 16:26:42.6289 Info Configuration initialized.
+2024-09-05 16:34:33.6066 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-05 16:34:33.6254 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-05 16:34:33.6254 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-05 16:34:33.6603 Info Configuration initialized.
+2024-09-05 16:35:31.3206 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-05 16:35:31.3404 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-05 16:35:31.3404 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-05 16:35:31.3668 Info Configuration initialized.
+2024-09-05 16:36:05.7594 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-05 16:36:05.8197 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-05 16:36:05.8481 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-05 16:36:05.8758 Info Configuration initialized.
+2024-09-06 08:38:13.7521 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 08:38:13.8070 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 08:38:13.8232 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 08:38:13.8396 Info Configuration initialized.
+2024-09-06 08:39:48.1722 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 08:39:48.2169 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 08:39:48.2358 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 08:39:48.2602 Info Configuration initialized.
+2024-09-06 08:40:49.6586 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 08:40:49.6759 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 08:40:49.6909 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 08:40:49.7071 Info Configuration initialized.
+2024-09-06 08:43:38.1638 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 08:43:38.2093 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 08:43:38.2294 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 08:43:38.2576 Info Configuration initialized.
+2024-09-06 09:00:23.6994 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 09:00:23.7184 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 09:00:23.7301 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 09:00:23.7301 Info Configuration initialized.
+2024-09-06 09:11:14.0584 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 09:11:14.0949 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 09:11:14.1088 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 09:11:14.1251 Info Configuration initialized.
+2024-09-06 09:33:25.3073 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 09:33:25.3725 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 09:33:25.3937 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 09:33:25.4128 Info Configuration initialized.
+2024-09-06 11:01:06.3497 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 11:01:06.4146 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 11:01:06.4350 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 11:01:06.4689 Info Configuration initialized.
+2024-09-06 11:26:25.8206 Info AppDomain Shutting down. LogFactory closing...
+2024-09-06 11:26:25.8459 Info LogFactory has been closed.
+2024-09-06 15:07:22.4191 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 15:07:22.4633 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 15:07:22.4744 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 15:07:22.4868 Info Configuration initialized.
+2024-09-06 15:09:48.4729 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 15:09:48.6094 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 15:09:48.6323 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 15:09:48.6602 Info Configuration initialized.
+2024-09-06 21:44:24.2755 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 21:44:24.3476 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 21:44:24.3653 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 21:44:24.3824 Info Configuration initialized.
+2024-09-06 21:51:37.4451 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 21:51:37.5113 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 21:51:37.5436 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 21:51:37.5846 Info Configuration initialized.
+2024-09-06 21:52:38.1557 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 21:52:38.2598 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 21:52:38.3028 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 21:52:38.3410 Info Configuration initialized.
+2024-09-06 21:55:16.9085 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 21:55:16.9598 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 21:55:16.9866 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 21:55:17.0170 Info Configuration initialized.
+2024-09-06 21:55:49.4054 Info AppDomain Shutting down. LogFactory closing...
+2024-09-06 21:55:49.4283 Info LogFactory has been closed.
+2024-09-06 21:55:59.0322 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-06 21:55:59.0843 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-06 21:55:59.1065 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\wechip\Documents\programlama\Book-Store\WebApi\nlog.config
+2024-09-06 21:55:59.1331 Info Configuration initialized.
+2024-09-06 22:04:07.1842 Info AppDomain Shutting down. LogFactory closing...
+2024-09-06 22:04:07.3535 Info LogFactory has been closed.
